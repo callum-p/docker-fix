@@ -1,4 +1,2 @@
 #!/bin/sh
-
-docker --version
-init 6
+echo hi>/tmp/test.txt
